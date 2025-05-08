@@ -31,4 +31,4 @@ Sono uno sviluppatore software e studente presso l'Università di Bologna, attua
 
 ## 🎓 Università di Bologna
 
-[Università di Bologna - Informatica per il Management](https://www.unibo.it/it/corsi/laurea/informatica-per-il-management)
+[Università di Bologna - Informatica per il Management](https://corsi.unibo.it/laurea/InformaticaManagement/insegnamenti/piano/2024/8014/000/000/2023)
