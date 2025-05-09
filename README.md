@@ -1,7 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gcJ23b1.png">
- <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/gcJ23b1.png">
- <img alt="scialby_img" src="https://i.imgur.com/gcJ23b1.png">
+ <img alt="scialby_img" src="https://i.imgur.com/PQcuK37.png">
 </picture>
 
 ---
